@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77420161-0b90-4d9f-9a5c-1f7980e39c50" name="Default Changelist" comment="">
+    <list default="true" id="77420161-0b90-4d9f-9a5c-1f7980e39c50" name="Default Changelist" comment="v1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -103,7 +103,8 @@
       <workItem from="1619944760696" duration="1661000" />
       <workItem from="1619946568052" duration="1097000" />
       <workItem from="1619948534808" duration="1488000" />
-      <workItem from="1619950346239" duration="193000" />
+      <workItem from="1619950346239" duration="1491000" />
+      <workItem from="1619952176331" duration="989000" />
     </task>
     <task id="LOCAL-00001" summary="find me on social media">
       <created>1559469091457</created>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619064024124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="v1">
+      <created>1619950751063</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619950751063</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +164,8 @@
     <MESSAGE value="left column" />
     <MESSAGE value="work experience" />
     <MESSAGE value="updated info" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated info" />
+    <MESSAGE value="v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="v1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="404" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619846832713">
