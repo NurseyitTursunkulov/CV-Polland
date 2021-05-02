@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="77420161-0b90-4d9f-9a5c-1f7980e39c50" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -26,6 +44,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SpjOgu0x0erz0JqERKLh1VcH02" />
@@ -69,6 +92,18 @@
       <workItem from="1610331617727" duration="129000" />
       <workItem from="1619060032227" duration="734000" />
       <workItem from="1619061255661" duration="582000" />
+      <workItem from="1619063786912" duration="1110000" />
+      <workItem from="1619845693317" duration="1507000" />
+      <workItem from="1619847503469" duration="1249000" />
+      <workItem from="1619872487139" duration="1532000" />
+      <workItem from="1619935304745" duration="1235000" />
+      <workItem from="1619937643571" duration="818000" />
+      <workItem from="1619940166193" duration="1097000" />
+      <workItem from="1619942906964" duration="1246000" />
+      <workItem from="1619944760696" duration="1661000" />
+      <workItem from="1619946568052" duration="1097000" />
+      <workItem from="1619948534808" duration="1488000" />
+      <workItem from="1619950346239" duration="193000" />
     </task>
     <task id="LOCAL-00001" summary="find me on social media">
       <created>1559469091457</created>
@@ -91,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1559470899719</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="updated info">
+      <created>1619064024124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619064024124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,12 +155,17 @@
     <MESSAGE value="find me on social media" />
     <MESSAGE value="left column" />
     <MESSAGE value="work experience" />
-    <option name="LAST_COMMIT_MESSAGE" value="work experience" />
+    <MESSAGE value="updated info" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated info" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="23" key="new project wizard" timestamp="1610331743455">
-      <screen x="0" y="23" width="1280" height="723" />
+    <state x="404" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619846832713">
+      <screen x="0" y="23" width="1280" height="727" />
     </state>
-    <state x="0" y="23" key="new project wizard/0.23.1280.723@0.23.1280.723" timestamp="1610331743455" />
+    <state x="404" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.727@0.23.1280.727" timestamp="1619846832713" />
+    <state x="221" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1619949726052">
+      <screen x="0" y="23" width="1280" height="730" />
+    </state>
+    <state x="221" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1280.730@0.23.1280.730" timestamp="1619949726052" />
   </component>
 </project>
