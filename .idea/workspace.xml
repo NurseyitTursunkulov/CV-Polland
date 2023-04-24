@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77420161-0b90-4d9f-9a5c-1f7980e39c50" name="Default Changelist" comment="v1">
+    <list default="true" id="77420161-0b90-4d9f-9a5c-1f7980e39c50" name="Default Changelist" comment="added something">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -105,6 +105,15 @@
       <workItem from="1619948534808" duration="1488000" />
       <workItem from="1619950346239" duration="1491000" />
       <workItem from="1619952176331" duration="989000" />
+      <workItem from="1633352058637" duration="397000" />
+      <workItem from="1633352760852" duration="1262000" />
+      <workItem from="1634035243581" duration="441000" />
+      <workItem from="1634557754813" duration="595000" />
+      <workItem from="1656410934815" duration="1152000" />
+      <workItem from="1660744666307" duration="1711000" />
+      <workItem from="1660746834278" duration="722000" />
+      <workItem from="1661324774261" duration="534000" />
+      <workItem from="1664199927011" duration="1088000" />
     </task>
     <task id="LOCAL-00001" summary="find me on social media">
       <created>1559469091457</created>
@@ -166,15 +175,5 @@
     <MESSAGE value="updated info" />
     <MESSAGE value="v1" />
     <option name="LAST_COMMIT_MESSAGE" value="v1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="404" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619846832713">
-      <screen x="0" y="23" width="1280" height="727" />
-    </state>
-    <state x="404" y="285" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.727@0.23.1280.727" timestamp="1619846832713" />
-    <state x="221" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1619949726052">
-      <screen x="0" y="23" width="1280" height="730" />
-    </state>
-    <state x="221" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1280.730@0.23.1280.730" timestamp="1619949726052" />
   </component>
 </project>
